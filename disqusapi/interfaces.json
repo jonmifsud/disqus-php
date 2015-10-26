@@ -554,9 +554,6 @@
       ]
     },
     "close": {
-      "required": [
-        "thread"
-      ],
       "method": "POST",
       "formats": [
         "json",
